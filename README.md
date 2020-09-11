@@ -1,3 +1,5 @@
+#Python program to print all Prime numbers in an Interval
+
 # PrimeSeries
 start=int(input("Enter the number 1:"))
 end=int(input("Enter the number 2:"))
